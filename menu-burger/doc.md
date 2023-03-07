@@ -1,0 +1,1 @@
+Un élément en positiobn relative sera positionné par rapport au flux normal de la page tandis qu'un élément en position absolute sera positionné par rapport à son parent le plus proche
